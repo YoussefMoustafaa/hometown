@@ -6,7 +6,7 @@ body {
 
 #hero {
     margin: 0;
-    background-image: url("images/cairo2.webp");
+    background-image: url("cairo2.webp");
     background-size: cover;
     height: 720px;
     max-width: 100%;
